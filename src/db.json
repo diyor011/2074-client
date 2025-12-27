@@ -20,6 +20,169 @@
     },
     {
       "id": 3,
+      "name": "Uzbek Plov",
+      "description": "Traditional Uzbek dish, delicious rice with meat and carrots",
+      "price": 25000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://png.pngtree.com/png-clipart/20240418/original/pngtree-uzbekistan-food-manti-png-image_14875788.png"
+    },
+    {
+      "id": 4,
+      "name": "Lagman",
+      "description": "Homemade hand-pulled noodles with meat and fresh vegetables",
+      "price": 22000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://png.pngtree.com/png-clipart/20240418/original/pngtree-uzbekistan-food-manti-png-image_14875788.png"
+    },
+    {
+      "id": 5,
+      "name": "Manti",
+      "description": "Steamed dumplings with minced meat and onions",
+      "price": 18000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "name": "Chicken Salad",
+      "description": "Fresh vegetables with grilled chicken meat salad",
+      "price": 15000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=400"
+    },
+    {
+      "id": 7,
+      "name": "Shashlik",
+      "description": "Aromatic kebab made from lamb meat",
+      "price": 30000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://pngimg.com/d/shashlik_PNG36.png"
+    },
+    {
+      "id": 8,
+      "name": "Samsa",
+      "description": "Pastry samsa with meat and onions",
+      "price": 5000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=400"
+    },
+    {
+      "id": 9,
+      "name": "Mastava",
+      "description": "Uzbek national rice and meat soup",
+      "price": 20000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?w=400"
+    },
+    {
+      "id": 10,
+      "name": "Fish with Rice",
+      "description": "Steamed salmon and rice",
+      "price": 35000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1547496614-3bf4aa0f0e18?w=400"
+    },
+    {
+      "id": 11,
+      "name": "Dimlama",
+      "description": "National dish cooked with meat and vegetables",
+      "price": 28000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1604909052743-94e838986d24?w=400"
+    },
+    {
+      "id": 12,
+      "name": "Mushroom Omelette",
+      "description": "Omelette made with fresh mushrooms and eggs",
+      "price": 12000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=400"
+    },
+    {
+      "id": 13,
+      "name": "Tuna Sandwich",
+      "description": "Fresh sandwich with tuna, lettuce and tomato",
+      "price": 16000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1539252554453-80ab65ce3586?w=400"
+    },
+    {
+      "id": 14,
+      "name": "Quinoa Salad",
+      "description": "Healthy salad with quinoa, avocado and fresh vegetables",
+      "price": 19000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400"
+    },
+    {
+      "id": 15,
+      "name": "Norin",
+
+      "description": "National dish prepared with horse meat and noodles",
+      "price": 27000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400"
+    },
+    {
+      "id": 16,
+      "name": "Chicken Burger",
+      "description": "Burger with fried chicken, lettuce and sauce",
+      "price": 21000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400"
+    },
+    {
+      "id": 17,
+      "name": "Bean Soup",
+      "description": "Hot soup with beans and potatoes",
+      "price": 14000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400"
+    },
+    {
+      "id": 18,
+      "name": "Dolma",
+      "description": "Meat and rice wrapped in grape leaves",
+      "price": 24000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=400"
+    },
+    {
+      "id": 19,
+      "name": "Chicken Breast and Vegetables",
+      "description": "Steamed chicken and fresh vegetables",
+      "price": 23000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1580959375944-1ab5b8c5d47c?w=400"
+    },
+    {
+      "id": 20,
+      "name": "Pasta Carbonara",
+      "description": "Classic Italian pasta with cream sauce",
+      "price": 26000,
+      "discount": 0.5,
+      "category": "Dinner",
+      "image": "https://images.unsplash.com/photo-1563897539633-7fdea2c611bc?w=400"
+    },
+    {
+      "id": 21,
       "name": "Milk Porridge",
       "description": "Creamy porridge prepared with milk and grains",
       "price": 15000,
@@ -28,7 +191,7 @@
       "image": "https://static.vecteezy.com/system/resources/previews/054/656/106/non_2x/bowl-of-creamy-porridge-with-milk-free-png.png"
     },
     {
-      "id": 4,
+      "id": 22,
       "name": "Cheese Sandwich",
       "description": "Toasted sandwich with melted cheese",
       "price": 20000,
@@ -37,7 +200,7 @@
       "image": "https://www.pngplay.com/wp-content/uploads/2/Cheese-Sandwich-Transparent-Free-PNG.png"
     },
     {
-      "id": 5,
+      "id": 23,
       "name": "Bread with Honey",
       "description": "Fresh bread served with natural honey",
       "price": 14000,
@@ -46,7 +209,7 @@
       "image": "https://png.pngtree.com/png-vector/20240604/ourmid/pngtree-a-close-up-of-honey-dripping-from-dipper-onto-slice-toast-png-image_12603394.png"
     },
     {
-      "id": 6,
+      "id": 24,
       "name": "Croissant",
       "description": "Freshly baked buttery croissant",
       "price": 16000,
@@ -55,7 +218,7 @@
       "image": "https://png.pngtree.com/png-vector/20250415/ourmid/pngtree-classic-croissant-breakfast-with-jam-png-image_15965175.png"
     },
     {
-      "id": 7,
+      "id": 25,
       "name": "Fruit Salad",
       "description": "A mix of fresh seasonal fruits",
       "price": 17000,
@@ -64,7 +227,7 @@
       "image": "https://png.pngtree.com/png-clipart/20230303/ourmid/pngtree-a-cup-of-mixed-fruit-salad-png-image_6628086.png"
     },
     {
-      "id": 8,
+      "id": 26,
       "name": "Americano Coffee",
       "description": "Hot brewed Americano coffee",
       "price": 13000,
@@ -73,7 +236,7 @@
       "image": "https://png.pngtree.com/png-clipart/20230425/original/pngtree-americano-coffee-beans-transparent-white-background-png-image_9097377.png"
     },
     {
-      "id": 9,
+      "id": 27,
       "name": "Tea",
       "description": "Black or green tea",
       "price": 8000,
@@ -82,35 +245,35 @@
       "image": "https://static.vecteezy.com/system/resources/previews/049/099/920/non_2x/traditional-chinese-tea-set-with-brown-teapot-six-cups-transparent-background-png.png"
     },
     {
-      "id": 10,
+      "id": 28,
       "name": "Orange Juice",
       "description": "Freshly squeezed orange juice",
       "price": 18000,
+
       "discount": 0.5,
       "category": "Drink",
       "image": "https://png.pngtree.com/png-clipart/20250103/original/pngtree-fresh-orange-fruit-juice-clipart-illustration-with-transparent-background-png-image_19988837.png"
     },
-
     {
-      "id": 11,
+      "id": 29,
       "name": "Rice",
       "description": "High quality white rice",
       "price": 12000,
       "discount": 0.5,
       "category": "Breakfast",
-      "image": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsb2ZmaWNlMl9waG90b19vZl9leHBsb2RpbmdfYmFjb25fZnJpZWRfcmljZV9faW5fc3R5bGVfb18xYjllOWMyOC00ZDFiLTRiNDQtYmNjMy0yMGQ3ZjY2NWMzMmMucG5n.png"
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/045/900/338/small/close-up-shot-of-bowl-filled-with-white-rice-png.png"
     },
     {
-      "id": 12,
+      "id": 30,
       "name": "Milk",
       "description": "Fresh cow milk",
       "price": 8000,
       "discount": 0.5,
       "category": "Breakfast",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSph7KkV8WkmWuc6b4DDO-mVc6-Lx8eN-CTuQ&s"
+      "image": "https://png.pngtree.com/png-clipart/20240619/original/pngtree-a-bottle-in-fresh-splash-milk-png-image_15366664.png"
     },
     {
-      "id": 13,
+      "id": 31,
       "name": "Bread",
       "description": "Soft and fresh bread",
       "price": 4000,
@@ -119,7 +282,7 @@
       "image": "https://png.pngtree.com/png-clipart/20240312/original/pngtree-bakery-bread-milky-plain-white-bread-png-image_14566757.png"
     },
     {
-      "id": 14,
+      "id": 32,
       "name": "Eggs",
       "description": "Farm fresh eggs (10 pieces)",
       "price": 14000,
@@ -128,109 +291,107 @@
       "image": "https://png.pngtree.com/png-vector/20250606/ourmid/pngtree-chicken-eggs-isolated-on-transparent-background-png-image_16464753.png"
     },
     {
-      "id": 15,
+      "id": 33,
       "name": "Chicken Meat",
-      "description": "Fresh raw chicken meat",
+      "description": "Fresh raw chicken meat with tomate",
       "price": 32000,
       "discount": 0.5,
       "category": "Breakfast",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKvzkPXdkG67VOZ-KPR9rvASI816J0E_G-Q&s"
+      "image": "https://static.vecteezy.com/system/resources/previews/045/960/461/non_2x/grilled-chicken-with-sauce-and-garnish-on-a-plate-transparent-background-free-png.png"
     },
-
     {
-      "id": 16,
-      "name": "Uzbek Plov",
+      "id": 34,
+      "name": "Traditional Plov",
       "description": "Traditional rice dish with meat and carrots",
       "price": 35000,
       "discount": 0.5,
-      "category": "Main Dish",
+      "category": "Breakfast",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Qnr5jQasGuYewUx2UsIaj_B3BrY68UgSFQ&s"
     },
     {
-      "id": 17,
+      "id": 35,
       "name": "Soup",
       "description": "Hot homemade soup",
       "price": 25000,
       "discount": 0.5,
-      "category": "Soup",
+      "category": "Breakfast",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjJZBxcs3y7vTaYbw_qcE62Rq5DTQAKC3TkQ&s"
     },
     {
-      "id": 18,
-      "name": "Lagman",
+      "id": 36,
+      "name": "Lagman Noodles",
       "description": "Noodles with meat and vegetables",
       "price": 30000,
       "discount": 0.5,
-      "category": "Noodles",
+      "category": "Breakfast",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVag0MGIAn6tognmoKmfIZor0w4RqMCVkADw&s"
     },
     {
-      "id": 19,
+      "id": 37,
       "name": "Manti Dumplings",
       "description": "Steamed dumplings filled with meat",
       "price": 32000,
       "discount": 0.5,
-      "category": "Dumplings",
+      "category": "Breakfast",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCnVFuF8fpsfP9AWzN-vJ896spcusWloq_xg&s"
     },
     {
-      "id": 20,
+      "id": 38,
       "name": "Chuchvara Dumplings",
       "description": "Small dumplings served with broth",
       "price": 28000,
       "discount": 0.5,
-      "category": "Dumplings",
+      "category": "Breakfast",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5lP7SenZrlq51aviQ-JBfKFuLORGICeQ-8w&s"
     },
-
     {
-      "id": 21,
+      "id": 39,
       "name": "Fried Lagman",
       "description": "Stir-fried noodles with meat",
       "price": 33000,
       "discount": 0.5,
-      "category": "Noodles",
+      "category": "Breakfast",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9NKiziqkVL3QW6V8RMwfg_-GcepSCfyjyw&s"
     },
     {
-      "id": 22,
+      "id": 40,
       "name": "Cutlet with Garnish",
       "description": "Meat cutlet served with side dish",
       "price": 30000,
       "discount": 0.5,
-      "category": "Main Dish",
+      "category": "Breakfast",
       "image": "https://png.pngtree.com/png-clipart/20250701/original/pngtree-cooked-meat-patties-with-parsley-garnish-png-image_21225866.png"
     },
     {
-      "id": 23,
-      "name": "Dimlama",
+      "id": 41,
+      "name": "Dimlama Stew",
+
       "description": "Slow cooked meat and vegetables stew",
       "price": 34000,
       "discount": 0.5,
-      "category": "Stew",
+      "category": "Breakfast",
       "image": "https://static.vecteezy.com/system/resources/previews/048/038/603/non_2x/beef-stew-with-potatoes-and-carrots-in-a-casserole-dish-png.png"
     },
     {
-      "id": 24,
+      "id": 42,
       "name": "Pasta with Meat",
       "description": "Pasta cooked with meat sauce",
       "price": 27000,
       "discount": 0.5,
-      "category": "Pasta",
+      "category": "Breakfast",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ38zDZISHMKPQHHC7w29QRSYNjh56WuLKig&s"
     },
     {
-      "id": 25,
+      "id": 43,
       "name": "Fried Chicken",
       "description": "Golden fried chicken pieces",
       "price": 31000,
       "discount": 0.5,
-      "category": "Chicken",
+      "category": "Breakfast",
       "image": "https://png.pngtree.com/png-clipart/20240306/original/pngtree-fried-chicken-png-png-image_14516402.png"
     },
-
     {
-      "id": 26,
+      "id": 44,
       "name": "Beef Steak",
       "description": "Grilled beef steak with spices",
       "price": 42000,
@@ -239,7 +400,7 @@
       "image": "https://static.vecteezy.com/system/resources/thumbnails/047/598/224/small/beef-steak-served-in-plate-on-white-background-grilled-steak-medium-rare-png.png"
     },
     {
-      "id": 27,
+      "id": 45,
       "name": "Grilled Chicken",
       "description": "Juicy grilled chicken with herbs",
       "price": 35000,
@@ -248,7 +409,7 @@
       "image": "https://png.pngtree.com/png-clipart/20250209/original/pngtree-grilled-whole-chicken-png-image_20397109.png"
     },
     {
-      "id": 28,
+      "id": 46,
       "name": "Fried Fish",
       "description": "Crispy fried fish with lemon",
       "price": 38000,
@@ -257,7 +418,7 @@
       "image": "https://png.pngtree.com/png-clipart/20231030/original/pngtree-dorado-baked-with-raspberry-marinade-and-brocooli-fish-for-the-christmas-png-image_13458354.png"
     },
     {
-      "id": 29,
+      "id": 47,
       "name": "Kebab",
       "description": "Grilled meat kebab on skewers",
       "price": 36000,
@@ -266,7 +427,7 @@
       "image": "https://png.pngtree.com/png-vector/20240129/ourmid/pngtree-traditional-turkish-kebab-shawarma-bread-filled-with-savory-meat-and-fresh-png-image_11559993.png"
     },
     {
-      "id": 30,
+      "id": 48,
       "name": "Light Plov",
       "description": "Light rice dish with less oil",
       "price": 33000,
@@ -274,9 +435,8 @@
       "category": "Dinner",
       "image": "https://png.pngtree.com/png-vector/20251001/ourmid/pngtree-delicious-uzbek-plov-a-hearty-rice-dish-with-tender-meat-and-png-image_17626425.webp"
     },
-
     {
-      "id": 31,
+      "id": 49,
       "name": "Vegetable Stew",
       "description": "Stewed vegetables with spices",
       "price": 26000,
@@ -285,7 +445,7 @@
       "image": "https://png.pngtree.com/png-vector/20240822/ourmid/pngtree-vegetable-soup-mastery-tips-and-tricks-for-a-perfectly-balanced-png-image_13581187.png"
     },
     {
-      "id": 32,
+      "id": 50,
       "name": "Creamy Pasta",
       "description": "Pasta cooked in creamy sauce",
       "price": 29000,
@@ -294,7 +454,7 @@
       "image": "https://png.pngtree.com/png-vector/20240828/ourmid/pngtree-creamy-fettuccine-alfredo-pasta-in-a-bowl-on-transparent-background-png-image_13651827.png"
     },
     {
-      "id": 33,
+      "id": 51,
       "name": "Rice with Chicken",
       "description": "Steamed rice served with chicken",
       "price": 31000,
@@ -303,7 +463,7 @@
       "image": "https://png.pngtree.com/png-vector/20240124/ourmid/pngtree-fried-rice-and-fried-chicken-png-image_11477086.png"
     },
     {
-      "id": 34,
+      "id": 52,
       "name": "Greek Salad",
       "description": "Fresh vegetables mixed with cheese",
       "price": 20000,
@@ -312,17 +472,17 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGh76pwKWG38tNeGBNSFPKhlpSOAIQlFVYyQ&s"
     },
     {
-      "id": 35,
+      "id": 53,
       "name": "Light Soup",
       "description": "Warm light soup for evening",
       "price": 23000,
+
       "discount": 0.5,
       "category": "Dinner",
       "image": "https://png.pngtree.com/png-vector/20250228/ourmid/pngtree-light-and-delicious-prawn-thai-soup-png-image_15632220.png"
     },
-
     {
-      "id": 36,
+      "id": 54,
       "name": "Omelette",
       "description": "Egg omelette with tomatoes",
       "price": 19000,
@@ -331,7 +491,7 @@
       "image": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsX29mZmljZV8zNF9waG90b19vZl9jbGFzc2ljX29tZWxldHRlX29uX3BsYXRlX3dpdGhfa2V0Y18yMzdhZGUyMC01ZTQzLTQzYzUtODM1Ni01YmY1MDdiMmNlYjIucG5n.png"
     },
     {
-      "id": 37,
+      "id": 55,
       "name": "Beef Burger",
       "description": "Burger with beef patty and cheese",
       "price": 34000,
@@ -340,7 +500,7 @@
       "image": "https://static.vecteezy.com/system/resources/previews/048/093/831/non_2x/close-up-fresh-beef-burger-isolated-on-transparent-background-png.png"
     },
     {
-      "id": 38,
+      "id": 56,
       "name": "Mini Pizza",
       "description": "Small pizza with cheese and meat",
       "price": 32000,
@@ -349,7 +509,7 @@
       "image": "https://png.pngtree.com/png-clipart/20240314/original/pngtree-pile-of-mini-pizzas-png-image_14581841.png"
     },
     {
-      "id": 39,
+      "id": 57,
       "name": "Chicken Wrap",
       "description": "Wrap with chicken and vegetables",
       "price": 28000,
@@ -358,7 +518,7 @@
       "image": "https://static.vecteezy.com/system/resources/thumbnails/039/651/892/small/ai-generated-chicken-shawarma-wrap-isolated-on-transparent-background-png.png"
     },
     {
-      "id": 40,
+      "id": 58,
       "name": "Tea Set",
       "description": "Green tea served with light snacks",
       "price": 15000,
@@ -367,94 +527,291 @@
       "image": "https://static.vecteezy.com/system/resources/previews/049/099/920/non_2x/traditional-chinese-tea-set-with-brown-teapot-six-cups-transparent-background-png.png"
     },
     {
-      "id": 41,
+      "id": 59,
       "name": "Coca-Cola",
       "description": "Chilled sparkling soft drink",
       "price": 12000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-clipart/20240301/original/pngtree-coca-cola-bottle-png-image_14510266.png"
+      "image": "https://static.vecteezy.com/system/resources/previews/037/751/381/non_2x/coca-cola-plastic-bottle-isolated-on-transparent-background-free-png.png"
     },
     {
-      "id": 42,
+      "id": 60,
       "name": "Pepsi",
       "description": "Refreshing carbonated soft drink",
       "price": 12000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-clipart/20240301/original/pngtree-pepsi-bottle-png-image_14510270.png"
+      "image": "https://png.pngtree.com/png-clipart/20250222/original/pngtree-classic-pepsi-can-refreshing-carbonated-soft-drink-png-image_20493806.png"
     },
     {
-      "id": 43,
+      "id": 61,
       "name": "Fanta",
       "description": "Orange flavored soft drink",
       "price": 12000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-clipart/20240301/original/pngtree-fanta-orange-bottle-png-image_14510263.png"
+      "image": "https://static.vecteezy.com/system/resources/previews/052/610/772/non_2x/fanta-can-on-transparent-background-free-png.png"
     },
     {
-      "id": 44,
+      "id": 62,
       "name": "Mineral Water",
       "description": "Natural sparkling mineral water",
       "price": 6000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-vector/20240116/ourmid/pngtree-mineral-water-bottle-png-image_11401764.png"
+      "image": "https://png.pngtree.com/png-clipart/20241121/original/pngtree-mineral-water-bottles-png-image_17283269.png"
     },
     {
-      "id": 45,
-      "name": "Still Water",
-      "description": "Pure non-carbonated drinking water",
+      "id": 63,
+      "name": "Ice Tea",
+      "description": "Refreshing iced tea drink",
       "price": 5000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-vector/20240116/ourmid/pngtree-water-bottle-png-image_11401762.png"
+      "image": "https://static.vecteezy.com/system/resources/previews/055/133/781/non_2x/refreshing-iced-tea-with-a-lemon-twist-and-fresh-mint-leaves-served-in-a-clear-glass-isolated-on-transparent-background-free-png.png"
     },
     {
-      "id": 46,
+      "id": 64,
       "name": "Apple Juice",
       "description": "Fresh apple juice",
       "price": 15000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-clipart/20240214/original/pngtree-apple-juice-glass-png-image_14342951.png"
-    },
-    {
-      "id": 47,
+      "image": "https://png.pngtree.com/png-vector/20241204/ourmid/pngtree-refreshing-apple-iced-tea-drink-png-image_14433829.png"
+    },{
+      "id": 65,
       "name": "Pineapple Juice",
       "description": "Sweet pineapple juice",
       "price": 16000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-clipart/20240214/original/pngtree-pineapple-juice-glass-png-image_14342954.png"
+      "image": "https://png.pngtree.com/png-vector/20250603/ourmid/pngtree-pineapple-juice-png-image_16454670.png"
     },
     {
-      "id": 48,
+      "id": 66,
       "name": "Milkshake",
       "description": "Cold milkshake with vanilla flavor",
       "price": 18000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-vector/20240205/ourmid/pngtree-vanilla-milkshake-glass-png-image_11288148.png"
+      "image": "https://static.vecteezy.com/system/resources/previews/015/723/696/non_2x/bubble-milk-tea-pearl-milk-tea-png.png"
     },
     {
-      "id": 49,
+      "id": 67,
       "name": "Iced Coffee",
       "description": "Cold coffee with ice",
       "price": 17000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-clipart/20240210/original/pngtree-iced-coffee-glass-png-image_14310856.png"
+      "image": "https://png.pngtree.com/png-vector/20250512/ourmid/pngtree-iced-thai-tea-with-milk-and-ice-cubes-in-plastic-cup-png-image_16231916.png"
     },
     {
-      "id": 50,
+      "id": 68,
       "name": "Lemonade",
       "description": "Fresh homemade lemonade",
       "price": 14000,
       "discount": 0.5,
       "category": "Drink",
-      "image": "https://png.pngtree.com/png-clipart/20240212/original/pngtree-lemonade-glass-png-image_14323827.png"
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/046/374/484/small/a-glass-of-tea-with-a-lime-and-a-piece-of-ginger-on-the-side-the-drink-is-served-in-a-tall-glass-with-a-straw-free-png.png"
+    },
+    {
+      "id": 69,
+      "name": "Americano Coffee",
+      "description": "Hot brewed Americano coffee",
+      "price": 13000,
+      "discount": 0.5,
+      "category": "Drink",
+      "image": "https://png.pngtree.com/png-clipart/20230425/original/pngtree-americano-coffee-beans-transparent-white-background-png-image_9097377.png"
+    },
+    {
+      "id": 70,
+      "name": "Tea",
+      "description": "Black or green tea",
+      "price": 8000,
+      "discount": 0.5,
+      "category": "Drink",
+      "image": "https://static.vecteezy.com/system/resources/previews/049/099/920/non_2x/traditional-chinese-tea-set-with-brown-teapot-six-cups-transparent-background-png.png"
+    },
+    {
+      "id": 71,
+      "name": "Orange Juice",
+      "description": "Freshly squeezed orange juice",
+      "price": 18000,
+      "discount": 0.5,
+      "category": "Drink",
+      "image": "https://png.pngtree.com/png-clipart/20250103/original/pngtree-fresh-orange-fruit-juice-clipart-illustration-with-transparent-background-png-image_19988837.png"
+    },
+    {
+      "id": 72,
+      "img": "https://png.pngtree.com/png-clipart/20240818/original/pngtree-super-delicious-chocolate-cake-png-image_15801716.png",
+      "title": "Shokoladli tort",
+      "description": "Nozik shokoladli qatlamlar va kremli to'ldiruvchi bilan tayyorlangan klassik tort",
+      "price": 45000,
+      "discount": 10,
+      "category": "tortlar"
+    },
+    {
+      "id": 73,
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/025/065/317/small/cheesecake-with-ai-generated-free-png.png",
+      "title": "Qulupnayli cheesecake",
+      "description": "Yumshoq pishloqli asosli va yangi qulupnay bilan bezatilgan",
+      "price": 38000,
+      "discount": 0,
+      "category": "tortlar"
+    },
+    {
+      "id": 74,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbJInsCn-zPxip0lPcB2eFgQYizUC9jPauTg&s",
+      "title": "Tiramisu",
+      "description": "Italyan klassikasi - kofeli biskvit va maskarpone kremi",
+      "price": 42000,
+      "discount": 15,
+      "category": "tortlar"
+    },
+    {
+      "id": 75,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSZbDA0WoPF2Gi4UXLwL4yz5zShZTb80SItg&s",
+      "title": "Fransuz makaron",
+      "description": "Turli xil ta'mli rangli makaronlar to'plami (12 dona)",
+      "price": 35000,
+      "discount": 0,
+      "category": "pechenyeler"
+    },
+    {
+      "id": 76,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bSDDASORKBYjPbA1PfLup1Vx4Y12Bmv22A&s",
+      "title": "Ekler",
+      "description": "Vanil kremi bilan to'ldirilgan shokoladli ekler (6 dona)",
+      "price": 28000,
+      "discount": 5,
+      "category": "pechenyeler"
+    },
+    {
+      "id": 77,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNr_sSPvfwS7TZnCaC_-K0Cr4eF7LsOcSIg&s",
+      "title": "Shokoladli keks",
+      "description": "Ichida eritilgan shokolad bor issiq keks",
+      "price": 18000,
+      "discount": 0,
+      "category": "kekslar"
+    },
+    {
+      "id": 78,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apfelkuechle-on-plate.png/1200px-Apfelkuechle-on-plate.png",
+      "title": "Olmali pirog",
+      "description": "An'anaviy olmali pirog, dolchin va yong'oq bilan",
+      "price": 32000,
+      "discount": 20,
+      "category": "piroglar"
+    },
+    {
+      "id": 79,
+      "img": "https://png.pngtree.com/png-vector/20240804/ourmid/pngtree-rich-and-creamy-creme-brulee-in-a-ceramic-plate-isolated-on-png-image_13372602.png",
+      "title": "Krem-bryule",
+      "description": "Karamelizatsiyalangan shakar bilan qoplangan klassik frantsuz deserti",
+      "price": 25000,
+      "discount": 0,
+      "category": "desertlar"
+    },
+    {
+      "id": 80,
+      "img": "Muzqaymoqli donut",
+      "title": "Muzqaymoqli donut",
+      "description": "Vanilli muzqaymoq va shokoladli sous bilan donut",
+      "price": 15000,
+      "discount": 10,
+      "category": "donutlar"
+    },
+    {
+      "id": 81,
+      "img": "",
+      "title": "Kruassan",
+      "description": "Frantsuz an'anasi bo'yicha pishirilgan sariyog'li kruassan",
+      "price": 12000,
+      "discount": 0,
+      "category": "pechenyeler"
+    },
+    {
+      "id": 82,
+      "img": "",
+      "title": "Medovik",
+      "description": "Asalli biskvit qatlamlari va smetana kremi bilan",
+      "price": 40000,
+      "discount": 15,
+      "category": "tortlar"
+    },
+    {
+      "id": 83,
+      "img": "https://png.pngtree.com/png-vector/20240207/ourmid/pngtree-fresh-croissant-bread-food-png-image_11693967.png",
+      "title": "Panna cotta",
+      "description": "Qulupnay sousi bilan italyan sutli deserti",
+      "price": 22000,
+      "discount": 0,
+      "category": "desertlar"
+    },
+    {
+      "id": 84,
+      "img": "https://png.pngtree.com/png-clipart/20231016/original/pngtree-chocolate-brownie-png-png-image_13321549.png ",
+      "title": "Browni",
+      "description": "Yong'oq bo'laklari bilan shokoladli browni",
+      "price": 20000,
+      "discount": 5,
+      "category": "kekslar"
+    },
+    {
+      "id": 85,
+      "img": "https://png.pngtree.com/png-vector/20231206/ourmid/pngtree-baked-layers-of-napoleon-cake-with-buttercream-and-wooden-png-image_10994358.png",
+      "title": "Napolyon",
+      "description": "Qatlamli xamirli klassik tort, vanil kremi bilan",
+      "price": 36000,
+      "discount": 0,
+      "category": "tortlar"
+    },
+    {
+      "id": 86,
+      "img": "https://png.pngtree.com/png-vector/20250826/ourmid/pngtree-decadent-tiramisu-cake-a-delicious-layered-dessert-featuring-coffee-soaked-ladyfingers-png-image_17220544.webp",
+      "title": "Trevli tort",
+      "description": "Uch xil shokoladli qatlamlardan iborat noyob tort",
+      "price": 48000,
+      "discount": 10,
+      "category": "tortlar"
+    },
+    {
+      "id": 87,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw2PDDrxHACgI-KO8M237TkHV_gIzj4e8Ew&s",
+      "title": "Churros",
+      "description": "Shokoladli sous bilan xushbo'y ispan churros (8 dona)",
+      "price": 24000,
+      "discount": 0,
+      "category": "pechenyeler"
+    },
+    {
+      "id": 88,
+      "img": "https://png.pngtree.com/png-clipart/20231002/original/pngtree-pavlova-food-for-festival-christmas-and-thanksgiving-png-image_13067292.png",
+      "title": "Pavlova",
+      "description": "Mevalar va qaymoq bilan bezatilgan engil beze deserti",
+      "price": 34000,
+      "discount": 20,
+      "category": "desertlar"
+    },
+    {
+      "id": 89,
+      "img": "https://png.pngtree.com/png-clipart/20241113/original/pngtree-red-velvet-cake-png-image_16978651.png",
+      "title": "Red velvet tort",
+      "description": "Qizil rangli biskvit va krem-chizli krem",
+      "price": 44000,
+      "discount": 0,
+      "category": "tortlar"
+    },
+    {
+      "id": 90,
+      "img": "https://static.vecteezy.com/system/resources/previews/054/603/314/non_2x/a-plate-of-profiteroles-filled-with-cream-and-drizzled-with-chocolate-png.png",
+      "title": "Profiterol",
+      "description": "Shokoladli sous ostida kremli xamir to'plari (10 dona)",
+      "price": 30000,
+      "discount": 15,
+      "category": "pechenyeler"
     }
   ]
 }
